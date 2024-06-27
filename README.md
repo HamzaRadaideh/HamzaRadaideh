@@ -65,7 +65,7 @@
 ## GitHub Stats
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaradaideh&show_icons=true&locale=en&layout=compact" alt="hamzaradaideh" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaradaideh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hamzaradaideh" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaradaideh&show_icons=true&locale=en" alt="hamzaradaideh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaradaideh&show_icons=true&locale=en&theme=tokyonight" alt="hamzaradaideh" /></p>
