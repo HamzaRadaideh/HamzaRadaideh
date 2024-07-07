@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **full stack app development**, **game development**, **full stack web development**, and **AI development**
 - 📫 How to reach me: [hjradaideh10@gmail.com](mailto:hjradaideh10@gmail.com)
 - 👨‍💻 All of my projects are available at [my website](#)
-- 📄 Know about my experiences: [my CV]([#](https://github.com/HamzaRadaideh/Resume.git))
+- 📄 Know about my experiences: [my CV]((https://github.com/HamzaRadaideh/Resume.git))
 
 ## Connect with Me
 
