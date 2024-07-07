@@ -17,7 +17,7 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-radaideh-034650214/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hamza-radaideh/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ## Languages and Tools
