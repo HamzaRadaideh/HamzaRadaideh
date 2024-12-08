@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **machine learning & neural networks**
 - 🌱 I’m currently learning **full stack app development**, **game development**, **full stack web development**, and **AI development**
 - 📫 How to reach me: [hjradaideh10@gmail.com](mailto:hjradaideh10@gmail.com)
-- 👨‍💻 All of my projects are available at [my website](#)
+- 👨‍💻 All of my projects are available at [my website](hamzaradaideh.online)
 - 📄 Know about my experiences: [Download my CV](https://github.com/HamzaRadaideh/Resume/raw/main/Resume.pdf)
 
 ## Connect with Me
